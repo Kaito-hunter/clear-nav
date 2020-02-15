@@ -8,4 +8,6 @@
 0 - Sair
 ```
 
+![](Menu.png)
+
 "version": "0.0.1"
